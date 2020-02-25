@@ -1,0 +1,3 @@
+# Java_Core_06
+homework on lesson06  
+Lesson 06 - Delegation, Interfaces, default and static methods of Interfaces...
